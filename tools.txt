@@ -5,7 +5,7 @@ SPAdes
 Pilon
 QUAST
 RagTag
-mlst 
+mlst
 abricate
 Prokka
 dREP

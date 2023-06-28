@@ -1,0 +1,293 @@
+LOCUS       X91840                  3202 bp    DNA     linear   BCT 18-APR-2005
+DEFINITION  K.pneumoniae plasmid DNA for bla CMY-2 gene.
+ACCESSION   X91840
+VERSION     X91840.1
+KEYWORDS    bla CMY-2 gene; extended spectrum beta-lactamase.
+SOURCE      Klebsiella pneumoniae
+  ORGANISM  Klebsiella pneumoniae
+            Bacteria; Pseudomonadota; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella/Raoultella group; Klebsiella.
+REFERENCE   1
+  AUTHORS   Bauernfeind,A., Stemplinger,I., Jungwirth,R. and Giamarellou,H.
+  TITLE     Characterization of the plasmidic beta-lactamase CMY-2, which is
+            responsible for cephamycin resistance
+  JOURNAL   Antimicrob. Agents Chemother. 40 (1), 221-224 (1996)
+   PUBMED   8787910
+REFERENCE   2  (bases 1 to 3202)
+  AUTHORS   Bauernfeind,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-SEP-1995) A. Bauernfeind, Max-von-Pettenkofer-Inst.d.
+            LMU Muenchen, Pettenkoferstr. 9a, D- 80336 Muenchen, FRG
+FEATURES             Location/Qualifiers
+     source          1..3202
+                     /organism="Klebsiella pneumoniae"
+                     /mol_type="genomic DNA"
+                     /strain="HEL-1"
+                     /db_xref="taxon:573"
+                     /clone="pMVP-2-1"
+                     /clone_lib="pSelectTM-1"
+     regulatory      1840..1845
+                     /regulatory_class="minus_35_signal"
+     regulatory      1863..1868
+                     /regulatory_class="minus_10_signal"
+     regulatory      1910..1915
+                     /regulatory_class="ribosome_binding_site"
+     gene            1924..3069
+                     /gene="bla CMY-2"
+     CDS             1924..3069
+                     /gene="bla CMY-2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="extended spectrum beta-lactamase"
+                     /protein_id="CAA62957.1"
+                     /db_xref="GOA:Q48434"
+                     /db_xref="InterPro:IPR001466"
+                     /db_xref="InterPro:IPR001586"
+                     /db_xref="InterPro:IPR012338"
+                     /db_xref="PDB:1ZC2"
+                     /db_xref="UniProtKB/TrEMBL:Q48434"
+                     /translation="MMKKSLCCALLLTASFSTFAAAKTEQQIADIVNRTITPLMQEQAI
+                     PGMAVAVIYQGKPYYFTWGKADIANNHPVTQQTLFELGSVSKTFNGVLGGDAIARGEIK
+                     LSDPVTKYWPELTGKQWQGIRLLHLATYTAGGLPLQIPDDVRDKAALLHFYQNWQPQWT
+                     PGAKRLYANSSIGLFGALAVKPSGMSYEEAMTRRVLQPLKLAHTWITVPQNEQKDYAWG
+                     YREGKPVHVSPGQLDAEAYGVKSSVIDMARWVQANMDASHVQEKTLQQGIALAQSRYWR
+                     IGDMYQGLGWEMLNWPLKADSIINGSDSKVALAALPAVEVNPPAPAVKASWVHKTGSTG
+                     GFGSYVAFVPEKNLGIVMLANKSYPNPVRVEAAWRILEKLQ"
+     sig_peptide     1924..1983
+                     /gene="bla CMY-2"
+ORIGIN
+        1 gatggggatc ttcccccatg aagggctaca aaaagtatgc aacaagccat ccgtatgaga
+       61 atcgaagccg atagcgcctc aggcaagatg acggaaacgg tcaggcagtc tgttaatgcg
+      121 gccttaaccc aagtcgagaa agagttgaag cagactgggc tagagcagca gaagccagct
+      181 acagatgcgt ttaatcaggc tgccggcacg gcgaaagcga tgatcgcaat gtttctaata
+      241 acgccaaaaa tcgtcagatc acaaatattt atatgcaata aatatcaatt atgtaatatg
+      301 catcacgata tgcgtattga catttgttgt tatatctata actcaatgtt atataagaaa
+      361 ttaataattc actgttttca aaacaccggt ttccctgctc aattgctttc attaaaccgc
+      421 acgagtattt tatttttacc gccggacggt accctaaaaa taaaataagg ataatttatg
+      481 cggcttagtg attattttcc agaatcatca atctcagtta tacattcagc aaaagattgg
+      541 caggaagcta tcgatttctc gatggtatca ttgctggata aaaactatat cagcgagaat
+      601 tacattcagg caattaaaga ttccaccatt aacaatggcc cttattatat tctcgcacca
+      661 ggcgtggcaa tgcctcatgc gcgaccggaa tgtggggcgc ttaaaaccgg gatgtctttg
+      721 acattacttg aacaaggtgt ttattttccg gggaatgacg aaccaattaa attactcatc
+      781 ggactctctg ctgccgatgc cgattcgcac attggcgcta ttcaggcgtt aagtgaatta
+      841 ctgtgcgaag aagaaatact cgaacaactc ttaacagcat catcagaaaa acaattagcg
+      901 gacattatca gccgcggata attactctct cctctacagg ataatattat ggaaaacaag
+      961 tctgctcgtg caaaggtcca ggcttttggg ggctttttga ctgcaatggt catccccaat
+     1021 attggtgctt ttattgcctg gggttttatt actgcgttat ttattcccac cggttggctg
+     1081 cctaacgaac atttcgccaa aattgtcggc ccgatgatta cctatttatt gcccgtgatg
+     1141 attggttcta caggtggtca tctggtcggc ggtaaacgcg gggcggtcat gggcggaata
+     1201 ggtactattg gtgtgatcct tcaactcagc aaaagttcga tttattcaac aaagcctaac
+     1261 aaatactacc ttgctttctg aaaaagtagt tatatactat gaaaagcgtg gtaatgctga
+     1321 aaactatatc aaagaagcca aatacgacat ggcggtgggt catctcttgc taaagtcatt
+     1381 ttgggcgaat gaagccgtgt ttcaaatgat gatgctttca tataacctat ttttgttgtt
+     1441 caagtttgat tccttggact cttcagaata cagacagcaa ataaagacct ttcgtttgaa
+     1501 gtatgtattt cttgcagcaa aaataatcaa aaccgcaaga tatgtaatca tgaagttgtc
+     1561 ggaaaactat ccgtacaagg gagtgtatga aaaatgtctg gtataataag aatatcatca
+     1621 ataaaattga gtgttgctct gtggataact tgcagagttt attaagtatc attgcagcaa
+     1681 agatgaaatc aatgatttat caaaaatgat tgaaaggtgg ttgtaaataa tgttacaatg
+     1741 tgtgagaagc agtctaaatt cttcgtgaaa tagtgatttt tgaagctaat aaaaaacaca
+     1801 cgtggaattt aggttatatc tgctgctaaa tttaaccgtt tgtcaacacg gtgcaaatca
+     1861 aacacactga ttgcgtctga cgggcccgga cacctttttg cttttaatta cggaactgat
+     1921 ttcatgatga aaaaatcgtt atgctgcgct ctgctgctga cagcctcttt ctccacattt
+     1981 gctgccgcaa aaacagaaca acagattgcc gatatcgtta atcgcaccat caccccgttg
+     2041 atgcaggagc aggctattcc gggtatggcc gttgccgtta tctaccaggg aaaaccctat
+     2101 tatttcacct ggggtaaagc cgatatcgcc aataaccacc cagtcacgca gcaaacgctg
+     2161 tttgagctag gatcggttag taagacgttt aacggcgtgt tgggcggcga tgctatcgcc
+     2221 cgcggcgaaa ttaagctcag cgatccggtc acgaaatact ggccagaact gacaggcaaa
+     2281 cagtggcagg gtatccgcct gctgcactta gccacctata cggcaggcgg cctaccgctg
+     2341 cagatccccg atgacgttag ggataaagcc gcattactgc atttttatca aaactggcag
+     2401 ccgcaatgga ctccgggcgc taagcgactt tacgctaact ccagcattgg tctgtttggc
+     2461 gcgctggcgg tgaaaccctc aggaatgagt tacgaagagg caatgaccag acgcgtcctg
+     2521 caaccattaa aactggcgca tacctggatt acggttccgc agaacgaaca aaaagattat
+     2581 gcctggggct atcgcgaagg gaagcccgta cacgtttctc cgggacaact tgacgccgaa
+     2641 gcctatggcg tgaaatccag cgttattgat atggcccgct gggttcaggc caacatggat
+     2701 gccagccacg ttcaggagaa aacgctccag cagggcattg cgcttgcgca gtctcgctac
+     2761 tggcgtattg gcgatatgta ccagggatta ggctgggaga tgctgaactg gccgctgaaa
+     2821 gctgattcga tcatcaacgg cagcgacagc aaagtggcat tggcagcgct tcccgccgtt
+     2881 gaggtaaacc cgcccgcccc cgcagtgaaa gcctcatggg tgcataaaac gggctccact
+     2941 ggtggatttg gcagctacgt agccttcgtt ccagaaaaaa accttggcat cgtgatgctg
+     3001 gcaaacaaaa gctatcctaa ccctgtccgt gtcgaggcgg cctggcgcat tcttgaaaag
+     3061 ctgcaataac tgacgatgag gcccaggata ttgggcctcc tttctttctc tttttttcct
+     3121 gttgtcatct acacttaaca aaaatacagc aaggaaaatc ccatgcgcat tttgcccgtc
+     3181 gttgctgcag gcatgcaagc tt
+//
+LOCUS       DQ241380                 777 bp    DNA     linear   BCT 29-JUL-2008
+DEFINITION  Escherichia coli aminoglycoside acetyltransferase (aacC4) gene,
+            complete cds.
+ACCESSION   DQ241380
+VERSION     DQ241380.1
+KEYWORDS    .
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Pseudomonadota; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 777)
+  AUTHORS   Magalhaes,M.L. and Blanchard,J.S.
+  TITLE     The kinetic mechanism of AAC3-IV aminoglycoside acetyltransferase
+            from Escherichia coli
+  JOURNAL   Biochemistry 44 (49), 16275-16283 (2005)
+   PUBMED   16331988
+REFERENCE   2  (bases 1 to 777)
+  AUTHORS   Blanchard,J.S. and Magalhaes,M.L.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-OCT-2005) Biochemistry, Albert Einstein College of
+            Medicine, 1300 Morris Park Avenue, Bronx, NY 10461, USA
+FEATURES             Location/Qualifiers
+     source          1..777
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:562"
+     gene            1..777
+                     /gene="aacC4"
+     CDS             1..777
+                     /gene="aacC4"
+                     /note="AAC(3)-IV"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="aminoglycoside acetyltransferase"
+                     /protein_id="ABB43029.1"
+                     /translation="MQYEWRKAELIGQLLNLGVTPGGVLLVHSSFRSVRPLEDGPLGLI
+                     EALRAALGPGGTLVMPSWSGLDDEPFDPATSPVTPDLGVVSDTFWRLPNVKRSAHPFAF
+                     AAAGPQAEQIISDPLPLPPHSPASPVARVHELDGQVLLLGVGHDANTTLHLAELMAKVP
+                     YGVPRHCTILQDGKLVRVDYLENDHCCERFALADRWLKEKSLQKEGPVGHAFARLIRSR
+                     DIVATALGQLGRDPLIFLHPPEAGCEECDAARQSIG"
+ORIGIN
+        1 gtgcaatacg aatggcgaaa agccgagctc atcggtcagc ttctcaacct tggggttacc
+       61 cccggcggtg tgctgctggt ccacagctcc ttccgtagcg tccggcccct cgaagatggg
+      121 ccacttggac tgatcgaggc cctgcgtgct gcgctgggtc cgggagggac gctcgtcatg
+      181 ccctcgtggt caggtctgga cgacgagccg ttcgatcctg ccacgtcgcc cgttacaccg
+      241 gaccttggag ttgtctctga cacattctgg cgcctgccaa atgtaaagcg cagcgcccat
+      301 ccatttgcct ttgcggcagc ggggccacag gcagagcaga tcatctctga tccattgccc
+      361 ctgccacctc actcgcctgc aagcccggtc gcccgtgtcc atgaactcga tgggcaggta
+      421 cttctcctcg gcgtgggaca cgatgccaac acgacgctgc atcttgccga gttgatggca
+      481 aaggttccct atggggtgcc gagacactgc accattcttc aggatggcaa gttggtacgc
+      541 gtcgattatc tcgagaatga ccactgctgt gagcgctttg ccttggcgga caggtggctc
+      601 aaggagaaga gccttcagaa ggaaggtcca gtcggtcatg cctttgctcg gttgatccgc
+      661 tcccgcgaca ttgtggcgac agccctgggt caactgggcc gagatccgtt gatcttcctg
+      721 catccgccag aggcgggatg cgaagaatgc gatgccgctc gccagtcgat tggctga
+//
+LOCUS       X62115                  2376 bp    DNA     linear   BCT 26-JUL-2016
+DEFINITION  K.pneumoniae plasmid pBWH77 aphA7 and blaS2A genes for neomycin
+            phosphotransferase and beta-lactamase.
+ACCESSION   X62115
+VERSION     X62115.1
+KEYWORDS    aphA7 gene; beta-lactamase; blaS2a gene; neomycin
+            phosphotransferase; R plasmid.
+SOURCE      Klebsiella pneumoniae
+  ORGANISM  Klebsiella pneumoniae
+            Bacteria; Pseudomonadota; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Klebsiella/Raoultella group; Klebsiella.
+REFERENCE   1  (bases 1 to 2376)
+  AUTHORS   Lee,K.Y., Hopkins,J.D. and Syvanen,M.
+  TITLE     Direct involvement of IS26 in an antibiotic resistance operon
+  JOURNAL   J. Bacteriol. 172 (6), 3229-3236 (1990)
+   PUBMED   2160941
+REFERENCE   2
+  AUTHORS   Lee,K.Y., Hopkins,J.D. and Syvanen,M.
+  TITLE     Evolved neomycin phosphotransferase from an isolate of Klebsiella
+            pneumoniae
+  JOURNAL   Mol. Biol. 5 (1991) In press
+REFERENCE   3
+  AUTHORS   Lee,K.Y., Hopkins,J.D. and Syvanen,M.
+  TITLE     Evolved neomycin phosphotransferase from an isolate of Klebsiella
+            pneumoniae
+  JOURNAL   Mol. Microbiol. 5 (8), 2039-2046 (1991)
+   PUBMED   1662755
+REFERENCE   4  (bases 1 to 2376)
+  AUTHORS   Syvanen,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-1991) M. Syvanen, School of Medicine, UC-Davis,
+            Davis California 95616, USA
+COMMENT     On Jul 10, 2002 this sequence version replaced S75769.1.
+            R-Plasmid, overlap of sequenced fragments.
+FEATURES             Location/Qualifiers
+     source          1..2376
+                     /organism="Klebsiella pneumoniae"
+                     /mol_type="genomic DNA"
+                     /strain="5214773"
+                     /db_xref="taxon:573"
+                     /plasmid="pBWH77"
+     mobile_element  1..343
+                     /mobile_element_type="insertion sequence:IS26"
+     regulatory      330..336
+                     /regulatory_class="minus_35_signal"
+     regulatory      354..360
+                     /regulatory_class="minus_10_signal"
+     gene            410..1225
+                     /gene="aphA7"
+     CDS             410..1225
+                     /gene="aphA7"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="neomycin phosphotransferase"
+                     /protein_id="CAA44024.1"
+                     /db_xref="GOA:Q79AN4"
+                     /db_xref="InterPro:IPR002575"
+                     /db_xref="InterPro:IPR011009"
+                     /db_xref="UniProtKB/TrEMBL:Q79AN4"
+                     /translation="MSHIQRETSCSRPRLNSNLDADLYGYRWARDNVGQSGATIYRLYG
+                     KPNAPELFLKHGKGSVANDVTDEMVRLNWLTAFMPLPTIKHFIRTPDDAWLLTTAIPGK
+                     TAFQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFRLAQAQSRMNNGLVDA
+                     SDFDDERNGWPVEQVWKEMHKLLPFSPDSVVTHGDFSLDNLIFDEGKLIGCIDVGRVGI
+                     ADRYQDLAILWNCLGEFSPSLQKRLFQKYGIDNPDMNKLQFHLMLDEFF"
+     gene            1281..2141
+                     /gene="blaS2A"
+     CDS             1281..2141
+                     /gene="blaS2A"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="SHV2A beta-lactamase"
+                     /protein_id="CAA44025.1"
+                     /db_xref="GOA:P0A9Z8"
+                     /db_xref="InterPro:IPR000871"
+                     /db_xref="InterPro:IPR001466"
+                     /db_xref="InterPro:IPR012338"
+                     /db_xref="UniProtKB/Swiss-Prot:P0A9Z8"
+                     /translation="MRYIRLCIISLLATLPLAVHASPQPLEQIKLSESQLSGRVGMIEM
+                     DLASGRTLTAWRADERFPMMSTFKVVLCGAVLARVDAGDEQLERKIHYRQQDLVDYSPV
+                     SEKHLADGMTVGELCAAAITMSDNSAANLLLATVGGPAGLTAFLRQIGDNVTRLDRWET
+                     ELNEALPGDARDTTTPASMAATLRKLLTSQRLSARSQRQLLQWMVDDRVAGPLIRSVLP
+                     AGWFIADKTGASERGARGIVALLGPNNKAERIVVIYLRDTPASMAERNQQIAGIGAALI
+                     EHWQR"
+ORIGIN
+        1 cccggtacag atacgcccag cggccattga ccttcacgta ggtttcatcc atgtgccacg
+       61 ggcaaagatc ggaagggtta cgccagtacc agcgcagccg tttttccatt tcaggcgcat
+      121 aacgctgaac ccagcggtaa atcgtggagt gatcgacatt cactccgcgt tcagccagca
+      181 tctcctgcag ctcacggtaa ctgatgccgt atttgcagta ccagcgtacg gcccacagaa
+      241 tgatgtcacg ctgaaaatgc cggcctttga atgggttcat gtgcagctcc atcagcaaaa
+      301 ggggatgata agtttatcac caccgactat ttgcaacagt gccgataaaa atatatcatc
+      361 atgaacaata aaactgtctg cttacataaa cagtaataca aggggtgtta tgagccatat
+      421 tcaacgggaa acgtcttgct cgaggccgcg attaaattcc aacctggatg ctgatttata
+      481 tgggtataga tgggctcgcg ataatgtcgg gcaatcaggt gcgacaatct atcgattgta
+      541 tgggaagccc aatgcgccag agttgtttct gaaacatggc aaaggtagcg ttgccaatga
+      601 tgttacagat gagatggtca gactaaactg gctgacggca tttatgcctc ttccgaccat
+      661 caagcatttt atccgtactc ctgatgatgc atggttactc accactgcga tccccgggaa
+      721 aacagcattc caggtattag aagaatatcc tgattcaggt gaaaatattg ttgatgcgct
+      781 ggcagtgttc ctgcgccggt tgcattcgat tcctgtttgt aattgtcctt ttaacagcga
+      841 tcgcgtattt cgtctcgctc aggcgcaatc acgaatgaat aacggtttgg ttgatgctag
+      901 tgattttgat gacgagcgta atggctggcc tgttgaacaa gtctggaaag aaatgcataa
+      961 gcttttgcca ttctcaccgg attcagtcgt cactcatggt gatttctcac ttgataacct
+     1021 tatttttgac gaggggaaat taataggttg tattgatgtt ggacgagtcg gaatcgcaga
+     1081 ccgataccag gatcttgcca tcctatggaa ctgcctcggt gagttttctc cttcattaca
+     1141 gaaacggctt tttcaaaaat atggtattga taatcctgat atgaataaat tgcagtttca
+     1201 tttgatgctc gatgagtttt tctgatatgt cgcttcttta ctcgccttta tcggccctca
+     1261 ctcaaggatg tattgtggtt atgcgttata ttcgcctgtg tattatctcc ctgttagcca
+     1321 ccctgccgct ggcggtacac gccagcccgc agccgcttga gcaaattaaa ctaagcgaaa
+     1381 gccagctgtc gggccgcgta ggcatgatag aaatggatct ggccagcggc cgcacgctga
+     1441 ccgcctggcg cgccgatgaa cgctttccca tgatgagcac ctttaaagta gtgctctgcg
+     1501 gcgcagtgct ggcgcgggtg gatgccggtg acgaacagct ggagcgaaag atccactatc
+     1561 gccagcagga tctggtggac tactcgccgg tcagcgaaaa acaccttgcc gacggcatga
+     1621 cggtcggcga actctgcgcc gccgccatta ccatgagcga taacagcgcc gccaatctgc
+     1681 tactggccac cgtcggcggc cccgcaggat tgactgcctt tttgcgccag atcggcgaca
+     1741 acgtcacccg ccttgaccgc tgggaaacgg aactgaatga ggcgcttccc ggcgacgccc
+     1801 gcgacaccac taccccggcc agcatggcgg cgaccctgcg caagctgctg accagccagc
+     1861 gtctgagcgc ccgttcgcaa cggcagctgc tgcagtggat ggtggacgat cgggtcgccg
+     1921 gaccgttgat ccgctccgtg ctgccggcgg gctggtttat cgccgataag accggagcta
+     1981 gcgagcgggg tgcgcgcggg attgtcgccc tgcttggccc gaataacaaa gcagagcgca
+     2041 ttgtggtgat ttatctgcgg gataccccgg cgagcatggc cgagcgaaat cagcaaatcg
+     2101 ccgggatcgg cgcggcgctg atcgagcact ggcaacgcta acccggcggt ggccgcgcgc
+     2161 gttatccggc ccgcagcacc tcgcaggcgt gccggtgcga tatgactggc gtgcggcatc
+     2221 ggaaaagccg cgtgcggtaa ttgatgctgg tgaacctggg tcaaaggtaa cgcccataaa
+     2281 cggtggccga cctgacttgt agtttcgaag cctgtcgcac tgccaggcat gcttgtggcg
+     2341 ctgacctgct gaccgctcct tgacctggta ccttct
+//

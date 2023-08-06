@@ -1,0 +1,10 @@
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871245.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871246.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871247.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871248.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871249.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871250.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871251.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871252.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871253.fasta
+https://github.com/vappiah/bioinfodata/raw/main/genome-assemblies/vibrio-cholerae/raw/batch1/SRR6871254.fasta
